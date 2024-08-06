@@ -1,35 +1,48 @@
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My Portfolio Website
+
+Welcome to my portfolio website! This repository contains the source code for my personal portfolio.
+
+## About Me
+
+Hello! My name is **Nirjara Mhaskar**. I am passionate about [your field or interest, e.g., web development, data science, design, etc.]. This portfolio showcases some of the projects I have worked on and highlights my skills and experience.
+
+## Website Features
+
+- Home Page: A brief introduction about me.
+- Projects: A showcase of my work, including descriptions and links to live demos or source code.
+- About Me: More detailed information about my background, skills, and interests.
+- Contact: A form or information on how to get in touch with me.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- [Any frameworks or libraries you used, e.g., React, Bootstrap, etc.]
+- [Other technologies, tools, or languages used]
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/nirjaramhaskar/My-Portfolio-Website.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd My-Portfolio-Website
+    ```
+3. Open `index.html` in your web browser to view the website.
+
+## Usage
+
+Feel free to explore the different sections of the website to learn more about my work and background. If you have any questions or would like to discuss potential opportunities, please reach out through the contact form on the website or connect with me on [LinkedIn/Twitter/other social media platforms].
+
+## Contributing
+
+I am always looking to improve my portfolio. If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
 
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you for visiting my portfolio!
